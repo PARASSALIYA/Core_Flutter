@@ -1,16 +1,36 @@
-# homey_pet
 
-A new Flutter project.
+#####  Add to cart from HomePage and DetailPage
+#####  Total price calculation in CartPage
+#####  Filtering category-wise in HomePage.
+#####  Increase/Decrease item quantity in DetailPage
 
-## Getting Started
+#### Functionalities which are not required to be implemented:
 
-This project is a starting point for a Flutter application.
+##### Promo code in CartPage
 
-A few resources to get you started if this is your first Flutter project:
+###### Increase/Decrease item quantity in CartPage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+###### Add to Favourites from DetailPage/HomePage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+OUTPUT : 
+
+
+![WhatsApp Image 2024-03-19 at 12 12 31_b292b233](https://github.com/PARASSALIYA/Core_Flutter/assets/143994351/82f2bccd-7b49-4697-a272-b9f58f14c00b)
+
+
+
+![WhatsApp Image 2024-03-19 at 12 12 58_ebe3d84d](https://github.com/PARASSALIYA/Core_Flutter/assets/143994351/6e1f2d8f-c044-47fc-b8b7-f58257c6a772)
+
+
+
+![WhatsApp Image 2024-03-19 at 12 13 29_8be30652](https://github.com/PARASSALIYA/Core_Flutter/assets/143994351/5d2666cb-5365-487b-b90f-1e20b76c0db1)
+
+
+
+
+
+
+
+
+
+
